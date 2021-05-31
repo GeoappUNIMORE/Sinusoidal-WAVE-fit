@@ -1,4 +1,9 @@
 # Sinusoidal-WAVE-fit
+
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4835936.svg)](https://doi.org/10.5281/zenodo.4835936)
+
+
 Performs irreversibility index based on sinusoidal fit.
 
 Scripts and modules developped in order to obtain the Sinusoidal wave fit indexing of irreversible displacements for crackmeters monitoring of rockfall areas.
