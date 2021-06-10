@@ -1,5 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4835936.svg)](https://doi.org/10.5281/zenodo.4835936)
-
+[![DOI](https://zenodo.org/badge/370367038.svg)](https://zenodo.org/badge/latestdoi/370367038)
 # Sinusoidal-WAVE-fit
 Performs irreversibility index based on sinusoidal fit.
 
